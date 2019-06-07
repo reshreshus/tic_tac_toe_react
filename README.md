@@ -1,8 +1,8 @@
  # Tic-tac-toe from React Official tutorial
-[Tutorial](https://reactjs.org/tutorial/tutorial.html)
-To test it out go to [this codepen](https://codepen.io/gaearon/pen/oWWQNa?editors=0110) and insert `index.js` and `index.css` files.
+[Tutorial](https://reactjs.org/tutorial/tutorial.html)  
+To test it out go to [this codepen](https://codepen.io/gaearon/pen/oWWQNa?editors=0110) and insert `index.js` and `index.css` files.  
 
-Additional features suggested in the tutorial are completed:
+#### Additional features suggested in the tutorial are completed:
 1. Display the location for each move in the format (col, row) in the move history list. Done
 2. Bold the currently selected item in the move list. Done
 3. Rewrite Board to use two loops to make the squares instead of hardcoding them. Done
